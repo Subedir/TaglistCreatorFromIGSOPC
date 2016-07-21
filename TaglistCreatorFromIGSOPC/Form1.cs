@@ -36,6 +36,7 @@ namespace TaglistCreatorFromIGSOPC
         {
             AboutBox ab = new AboutBox();
             ab.ShowDialog();
+
         }
     }
 }
