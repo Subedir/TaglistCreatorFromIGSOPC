@@ -1,0 +1,10 @@
+c:\users\212478881\documents\visual studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\bin\Debug\TaglistCreatorFromIGSOPC.exe.config
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\bin\Debug\TaglistCreatorFromIGSOPC.exe
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\bin\Debug\TaglistCreatorFromIGSOPC.pdb
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.csprojResolveAssemblyReference.cache
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.AboutBox.resources
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.Form1.resources
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.Properties.Resources.resources
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.csproj.GenerateResource.Cache
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.exe
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.pdb
