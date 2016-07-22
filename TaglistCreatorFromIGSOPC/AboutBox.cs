@@ -113,6 +113,5 @@ namespace TaglistCreatorFromIGSOPC
             }
         }
         #endregion
-
     }
 }

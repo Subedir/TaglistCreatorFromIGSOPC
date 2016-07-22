@@ -38,5 +38,22 @@ namespace TaglistCreatorFromIGSOPC
             ab.ShowDialog();
 
         }
+
+        private void UploadIGSFile_Click(object sender, EventArgs e)
+        {
+            openIGSFile.Filter = "IGS file (*.csv)|*.csv|All files (*.*)|*.*";
+            System.Windows.Forms.DialogResult result;
+            result = openIGSFile.ShowDialog();
+
+
+
+        }
+
+        private void UploadOPCFile_Click(object sender, EventArgs e)
+        {
+            openOPCFile.Filter = "OPC file (*.csv)|*.csv|All files (*.*)|*.*";
+            System.Windows.Forms.DialogResult result;
+            result = openOPCFile.ShowDialog();
+        }
     }
 }
