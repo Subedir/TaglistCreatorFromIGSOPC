@@ -49,11 +49,5 @@ namespace TaglistCreatorFromIGSOPC
 
         }
 
-        private void UploadOPCFile_Click(object sender, EventArgs e)
-        {
-            openOPCFile.Filter = "OPC file (*.csv)|*.csv|All files (*.*)|*.*";
-            System.Windows.Forms.DialogResult result;
-            result = openOPCFile.ShowDialog();
-        }
     }
 }

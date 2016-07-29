@@ -7,5 +7,8 @@ C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOP
 C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.csproj.GenerateResource.Cache
 C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.exe
 C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.pdb
-C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.OpenFiles.resources
 C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.csprojResolveAssemblyReference.cache
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\obj\Debug\TaglistCreatorFromIGSOPC.csproj.ResolveComReference.cache
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\bin\Debug\CsvHelper.dll
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\bin\Debug\CsvHelper.pdb
+C:\Users\212478881\Documents\Visual Studio 2015\Projects\TaglistCreatorFromIGSOPC\TaglistCreatorFromIGSOPC\bin\Debug\CsvHelper.xml
